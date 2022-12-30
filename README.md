@@ -56,10 +56,11 @@
   </div>
   </div>
   
-  <hr>
+<!--   <hr>
   
   <div align=center>
     
   ![baechaeyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=baechaeyoon&show_icons=true&theme=dark)
     
   </div>
+ -->
