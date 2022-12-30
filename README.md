@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=b0c4de&text=Hello&nbsp;World!&fontColor=FFFFFF&fontSize=60)
 
   <div align=center>
-    <h3>About Me🌟</h3>
+    <h3>About Me🚀</h3>
     데이터의 흐름을 이해하면서 구현하려고 노력하는 주니어 백엔드 개발자입니다
   </div>
   
