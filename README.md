@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=#dfe3f1&height=300&section=header&text=Welcome&fontSize=90&fontAlignY=38&desc=YOON's%20GitHub%20Profile&descAlignY=51&descAlign=62
+<img src="https://capsule-render.vercel.app/api?type=Transparent&color=#dfe3f1&height=300&section=header&text=Welcome&fontSize=90&fontAlignY=38&desc=YOON's%20GitHub%20Profile&descAlignY=51&descAlign=62">
 
 <!--
 **baechaeyoon/baechaeyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
