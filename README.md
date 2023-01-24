@@ -54,8 +54,8 @@
   </div>
   </div>
   
-  <!--  <hr>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baechaeyoon&layout=compact"> -->
+   <hr>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baechaeyoon&layout=compact"> 
   
 <!--   <hr>
   
